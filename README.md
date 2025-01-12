@@ -24,4 +24,3 @@
 #### Feel free to connect with me here 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshitashk/)
-[![Email](https://img.shields.io/badge/Email-C5221F.svg?logo=gmail&logoColor=white)](mailto:roshi.shk@gmail.com)
